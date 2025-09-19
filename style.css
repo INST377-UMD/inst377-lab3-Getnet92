@@ -1,0 +1,13 @@
+div{
+    background-color: lightpink;
+}
+.main{
+    background-color: blue;
+    float: left;
+    width: 70%;
+    padding: 160px;
+}
+.sidebar{
+    background-color: red;
+    float: right
+}
